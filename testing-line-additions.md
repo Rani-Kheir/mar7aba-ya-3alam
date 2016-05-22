@@ -1,6 +1,7 @@
 ##Here is a recipe for chocolate ice cream
 
 First step is to gather the ingredients:
+
 1. Chocolate
 2. Vanilla
 3. Milk

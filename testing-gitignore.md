@@ -5,4 +5,4 @@
 
 ------------------------ Line 6
 
-To test, adjust this file in a pull request, and commit it, confirm it doesnt update
+To test, adjust this file in a branch, commit -> pull request -> merge, confirm it doesnt update in master.

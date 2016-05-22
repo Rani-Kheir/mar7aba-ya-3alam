@@ -16,3 +16,10 @@ Interesting, I couldn't escape the :'s in emojis: :neutral_face:
 And yikes, what's with that emoji hovering below the text like that, odd.
 
 
+
+** Links:** 
+
+* [Emoji Cheatsheet](http://www.emoji-cheat-sheet.com/)
+* [MD formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+* [.gitignore](https://help.github.com/articles/ignoring-files/)
+* [Flow overview](https://guides.github.com/overviews/flow/)

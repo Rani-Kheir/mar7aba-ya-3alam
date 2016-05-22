@@ -12,7 +12,6 @@ Emojis:
 3. :grin:       grin
 
 Interesting, I couldn't escape the :'s in emojis: \:neutral_face\:
-[Click 'Raw' to see what I mean]
 
 And yikes, what's with that emoji hovering a lil' below the text like that, odd.
 

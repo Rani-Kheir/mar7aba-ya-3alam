@@ -10,3 +10,5 @@ Emojis:
 1. :heart_eyes: heart_eyes
 2. :innocent:   innocent
 3. :grin:       grin
+
+Interesting, I couldn't escape the :'s in emojis

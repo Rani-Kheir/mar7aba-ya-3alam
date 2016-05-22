@@ -17,7 +17,7 @@ And yikes, what's with that emoji hovering a lil' below the text like that, odd.
 
 ![Uneven emoji screenshot](https://cloud.githubusercontent.com/assets/8397813/15456739/bdc7cca4-202e-11e6-80bd-9f783683ca5e.png)
 
-** Links: ** 
+**Links:** 
 
 * [Emoji Cheatsheet](http://www.emoji-cheat-sheet.com/)
 * [MD formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax/)

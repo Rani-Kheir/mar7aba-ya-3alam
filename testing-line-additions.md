@@ -5,8 +5,8 @@ First step is to gather the ingredients:
 1. Chocolate
 2. Vanilla
 3. Milk
-4. Ice
-5. Water
+4. Water
+5. Sugar
 
 Second step is to mix them together:
 * Combine all ingredients in a blender

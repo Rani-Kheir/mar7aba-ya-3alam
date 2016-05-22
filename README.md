@@ -7,6 +7,6 @@ And would you expect this to be different? Nope! It's just more text.
 
 Emojis:
 
-1. \:heart_eyes\:  :heart_eyes:
-2. \:innocent\:    :innocent:
-3. \:grin\:        :grin:
+1. \:heart\_eyes\:  :heart_eyes:
+2. \:inn\ocent\:    :innocent:
+3. \:gr\in\:        :grin:

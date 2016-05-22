@@ -11,4 +11,8 @@ Emojis:
 2. :innocent:   innocent
 3. :grin:       grin
 
-Interesting, I couldn't escape the :'s in emojis: \:neutral_face\:
+Interesting, I couldn't escape the :'s in emojis: :neutral_face:
+
+And yikes, what's with that emoji hovering below the text like that, odd.
+
+

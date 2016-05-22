@@ -23,3 +23,4 @@ And yikes, what's with that emoji hovering a lil' below the text like that, odd.
 * [MD formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 * [.gitignore](https://help.github.com/articles/ignoring-files/)
 * [Flow overview](https://guides.github.com/overviews/flow/)
+* Fancy way to upload images: [Solution Optimist's page](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
